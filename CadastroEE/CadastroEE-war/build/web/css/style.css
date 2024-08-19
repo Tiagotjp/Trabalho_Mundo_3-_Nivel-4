@@ -1,0 +1,41 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 2024 Aug 17, 18:33:08
+    Author     : Tiago J P Furtado
+*/
+
+body {
+    background-color: #f4f4f4;
+    font-family: 'Arial', sans-serif;
+}
+.header-section {
+    background-color: #007bff;
+    color: white;
+    padding: 20px 0;
+    margin-bottom: 30px;
+}
+.header-section h1 {
+    margin: 0;
+    font-size: 2.5rem;
+}
+.form-container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.form-label {
+    font-weight: bold;
+    color: #333;
+}
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+.btn-secondary {
+    margin-bottom: 15px;
+}
+
